@@ -1,3 +1,4 @@
 # AR+TypoFusion
-https://user-images.githubusercontent.com/92052904/202871807-245f3704-77c7-4755-9e54-d5dd90981c52.mov
 
+
+![interpolated (27)](https://user-images.githubusercontent.com/92052904/202871983-25fea1ff-d687-4521-a0bd-ad8858daeedd.gif)
