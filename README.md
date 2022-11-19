@@ -1,1 +1,1 @@
-# AR-TypoFusion
+# AR+TypoFusion
