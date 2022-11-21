@@ -6,4 +6,3 @@
 ![interpolated (26)](https://user-images.githubusercontent.com/92052904/203109296-7be7ba7d-1dbe-48d3-ad25-6ea25deb3db3.gif)
 ![interpolated (31)](https://user-images.githubusercontent.com/92052904/203109431-5bc6be0a-0849-45b0-b035-58e0a7fbd9e9.gif)
 ![interpolated (9)](https://user-images.githubusercontent.com/92052904/203109646-4899ba52-2ac0-49e5-a282-8f2146c129ca.gif)
-![interpolated (12) (1)](https://user-images.githubusercontent.com/92052904/203109749-aee71d9b-fb90-4c19-bd1d-dc37bd1bc7e7.gif)
