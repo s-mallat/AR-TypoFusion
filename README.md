@@ -13,7 +13,7 @@ AR+TypoFusion is a personalized adaptation of the popular Stable Diffusion model
 ![Asset 51-100](https://user-images.githubusercontent.com/92052904/203107227-0d207d04-3f55-437c-85c6-b389ce2054ff.jpg)
 
 ## Attributions
-This project is built around the Stable Diffusion model created by StabilityAI and Runway. 
+<p>This project is built around the Stable Diffusion model created by StabilityAI and Runway. 
 
 Model Details
 <br><br>
@@ -24,3 +24,4 @@ License: The CreativeML OpenRAIL M license is an Open RAIL M license, adapted fr
 
 Cite as:
 Rombach, R., Blattmann, A., Lorenz, D., Esser, P. and Ommer, B., 2022. High-resolution image synthesis with latent diffusion models. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 10684-10695).
+</p>
