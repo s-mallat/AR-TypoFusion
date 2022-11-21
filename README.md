@@ -13,7 +13,7 @@ AR+TypoFusion is a personalized adaptation of the popular Stable Diffusion model
 ![Asset 51-100](https://user-images.githubusercontent.com/92052904/203107227-0d207d04-3f55-437c-85c6-b389ce2054ff.jpg)
 
 ## Attributions
-This project is built around the Stable Diffusion model created by StabilityAI and Runway. The code uses Stable Diffusion v1-4 that is available on Huggingface. Kindly note that I have attached a copy of the license for this model in this github repo. Credit goes to Patrick von Platen and Suraj Patil and Anton Lozhkov and Pedro Cuenca and Nathan Lambert and Kashif Rasul and Mishig Davaadorj, Thomas Wolf, Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer.
+This project is built around the Stable Diffusion model created by StabilityAI and Runway. The code uses Stable Diffusion v1-4 that is available on Huggingface. Kindly note that I have attached a copy of the license for this model in this github repo. Credit goes to Patrick von Platen and Suraj Patil and Anton Lozhkov and Pedro Cuenca and Nathan Lambert and Kashif Rasul and Mishig Davaadorj, Thomas Wolf, Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer. Also, please note that the Interpolation library used in this code is FILM net by Fitsum Reda and Janne Kontkanen and Eric Tabellion and Deqing Sun and Caroline Pantofaru and Brian Curless. I have also attached a copy of the license for this repo as well.
 
 ### Model Details
 
