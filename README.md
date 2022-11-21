@@ -1,6 +1,7 @@
 # AR+TypoFusion: <br> 
 # A Personalized ML Tool to Explore Co-Creativity within Personal Arabic Typography Practice
 
+Visualize and bring your typography to life! AR+TypoFusion is a personalized adaptation of the popular Stable Diffusion model that can perform conditional Arabic typography-to-image translation. 
 
 ![interpolated (27)](https://user-images.githubusercontent.com/92052904/202871983-25fea1ff-d687-4521-a0bd-ad8858daeedd.gif)
 ![interpolated (30)](https://user-images.githubusercontent.com/92052904/203102467-b9daa366-833c-49f0-aa71-c1ad402a8ac9.gif)
