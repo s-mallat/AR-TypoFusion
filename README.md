@@ -21,7 +21,7 @@ Developed by: Robin Rombach, Patrick Esser <br>
 Model type: Diffusion-based text-to-image generation model <br>
 License: The CreativeML OpenRAIL M license is an Open RAIL M license, adapted from the work that BigScience and the RAIL Initiative are jointly carrying in the area of responsible AI licensing. See also the article about the BLOOM Open RAIL license on which our license is based.
 <br><br>
-## BibTeX
+## Citation
 
 ```
 @misc{rombach2021highresolution,
@@ -31,5 +31,15 @@ License: The CreativeML OpenRAIL M license is an Open RAIL M license, adapted fr
       eprint={2112.10752},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
+}
+```
+```
+@misc{film-tf,
+  title = {Tensorflow 2 Implementation of "FILM: Frame Interpolation for Large Motion"},
+  author = {Fitsum Reda and Janne Kontkanen and Eric Tabellion and Deqing Sun and Caroline Pantofaru and Brian Curless},
+  year = {2022},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/google-research/frame-interpolation}}
 }
 ```
