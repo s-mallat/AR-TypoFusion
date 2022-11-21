@@ -16,19 +16,9 @@ AR+TypoFusion is a personalized adaptation of the popular Stable Diffusion model
 This project is built around the Stable Diffusion model created by StabilityAI and Runway. 
 
 Model Details
-
 Developed by: Robin Rombach, Patrick Esser
 Model type: Diffusion-based text-to-image generation model
-Language(s): English
 License: The CreativeML OpenRAIL M license is an Open RAIL M license, adapted from the work that BigScience and the RAIL Initiative are jointly carrying in the area of responsible AI licensing. See also the article about the BLOOM Open RAIL license on which our license is based.
-Model Description: This is a model that can be used to generate and modify images based on text prompts. It is a Latent Diffusion Model that uses a fixed, pretrained text encoder (CLIP ViT-L/14) as suggested in the Imagen paper.
-Resources for more information: GitHub Repository, Paper.
+<br>
 Cite as:
-      @InProceedings{Rombach_2022_CVPR,
-          author    = {Rombach, Robin and Blattmann, Andreas and Lorenz, Dominik and Esser, Patrick and Ommer, Bj\"orn},
-          title     = {High-Resolution Image Synthesis With Latent Diffusion Models},
-          booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-          month     = {June},
-          year      = {2022},
-          pages     = {10684-10695}
-      }
+Rombach, R., Blattmann, A., Lorenz, D., Esser, P. and Ommer, B., 2022. High-resolution image synthesis with latent diffusion models. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 10684-10695).
