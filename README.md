@@ -17,8 +17,8 @@ AR+TypoFusion is a personalized adaptation of the popular Stable Diffusion model
 
 Model Details
 <br><br>
-Developed by: Robin Rombach, Patrick Esser
-Model type: Diffusion-based text-to-image generation model
+Developed by: Robin Rombach, Patrick Esser <br>
+Model type: Diffusion-based text-to-image generation model <br>
 License: The CreativeML OpenRAIL M license is an Open RAIL M license, adapted from the work that BigScience and the RAIL Initiative are jointly carrying in the area of responsible AI licensing. See also the article about the BLOOM Open RAIL license on which our license is based.
 <br><br>
 
