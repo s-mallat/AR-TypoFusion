@@ -22,7 +22,7 @@ Model type: Diffusion-based text-to-image generation model <br>
 License: The CreativeML OpenRAIL M license is an Open RAIL M license, adapted from the work that BigScience and the RAIL Initiative are jointly carrying in the area of responsible AI licensing. See also the article about the BLOOM Open RAIL license on which our license is based.
 <br><br>
 ## Citation
-
+### Stable Diffusion
 ```
 @misc{rombach2021highresolution,
       title={High-Resolution Image Synthesis with Latent Diffusion Models}, 
@@ -33,6 +33,7 @@ License: The CreativeML OpenRAIL M license is an Open RAIL M license, adapted fr
       primaryClass={cs.CV}
 }
 ```
+### FILM Neural Network
 ```
 @misc{film-tf,
   title = {Tensorflow 2 Implementation of "FILM: Frame Interpolation for Large Motion"},
