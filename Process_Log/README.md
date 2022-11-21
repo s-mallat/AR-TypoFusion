@@ -2,13 +2,11 @@
 
 ### This section is chronologically image / video documentation of the development of this project.
 
-
-![process log-01](https://user-images.githubusercontent.com/92052904/203078114-905b8b0f-6039-4a2f-9711-c310450da181.png)
-![process log-02](https://user-images.githubusercontent.com/92052904/203078131-1bbb6b32-cb5d-434c-af20-3ae7e84bc925.png)
-![process log-03](https://user-images.githubusercontent.com/92052904/203078139-7f06eb13-2e25-4e1e-8bac-c7b343d10c7a.png)
-![process log-04](https://user-images.githubusercontent.com/92052904/203078148-3b6b52ad-00c9-484a-91d5-3e67bf8927f5.png)
-![process log-05](https://user-images.githubusercontent.com/92052904/203078152-ba7f3007-657c-4348-b781-d8a2b2847593.png)
-![process log-06](https://user-images.githubusercontent.com/92052904/203078154-a71cc7f6-8e5d-40f2-bb4d-be3b6ba00eb9.png)
-![process log-07](https://user-images.githubusercontent.com/92052904/203078158-7e10d28e-8ecd-432d-b373-da19c13112d4.png)
-
-
+![process log-01](https://user-images.githubusercontent.com/92052904/203079275-b9ab9a14-8219-48d9-a9d9-0efa4635b7b2.png)
+![process log-02](https://user-images.githubusercontent.com/92052904/203079277-9309294d-abde-443d-8d5a-35a6274cf28e.png)
+![process log-03](https://user-images.githubusercontent.com/92052904/203079282-08b91667-293e-4ea6-8879-9a150414faa8.png)
+![process log-04](https://user-images.githubusercontent.com/92052904/203079284-577767d9-602b-47ab-b764-98328a838351.png)
+![process log-05](https://user-images.githubusercontent.com/92052904/203079287-00ecc4a9-28a7-4a1c-addd-b92b14c3fda2.png)
+![process log-06](https://user-images.githubusercontent.com/92052904/203079291-4bc2f5ec-5e84-42ce-9706-ec1e9aa65e99.png)
+![process log-07](https://user-images.githubusercontent.com/92052904/203079295-72e06ded-0fcf-46a4-85fd-1f97158673e9.png)
+![process log-08](https://user-images.githubusercontent.com/92052904/203079299-fcfc2b98-f21b-4e7a-aa6a-91a34347d14d.png)
