@@ -15,7 +15,7 @@ AR+TypoFusion is a personalized adaptation of the popular Stable Diffusion model
 ## Attributions
 This project is built around the Stable Diffusion model created by StabilityAI and Runway. 
 
-###Model Details
+### Model Details
 
 Developed by: Robin Rombach, Patrick Esser <br>
 Model type: Diffusion-based text-to-image generation model <br>
